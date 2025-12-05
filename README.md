@@ -21,9 +21,9 @@ W tym repozytorium przygotowałem pliki w różnych formatach danych. Poniżej z
 | ID | Tytuł Gry | Cena (PLN) |
 | :--- | :--- | :---: |
 | 1 | Wiedźmin 3 | 49.99 |
-| 2 | Cyberpunk 2077 | 99.00 |
+| 2 | Cyberpunk 2077 | 199.00 |
 
-> "Gry łączą ludzi."
+> "Elden Ring fajna gra"
 
 ### Przykładowy kod (JavaScript)
 ```javascript
