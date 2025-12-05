@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklep xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schema.xsd">
+    <gra id="1">
+        <tytul>Wiedzmin 3</tytul>
+        <cena>49.99</cena>
+    </gra>
+    <gra id="2">
+        <tytul>Cyberpunk 2077</tytul>
+        <cena>99.00</cena>
+    </gra>
+</sklep>
