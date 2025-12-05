@@ -2,6 +2,7 @@
 
 ## Moje dane
 * **Student:** Karol Ziejka
+* **Index** 208443
 * **Grupa:** 2A
 * **Temat:** Katalog gier komputerowych
 
