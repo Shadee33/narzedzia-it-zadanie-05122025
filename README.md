@@ -28,4 +28,4 @@ W tym repozytorium przygotowałem pliki w różnych formatach danych. Poniżej z
 
 ### Przykładowy kod (JavaScript)
 ```javascript
-console.log("Witaj w moim repozytorium!");
+console.log("Log :O");
